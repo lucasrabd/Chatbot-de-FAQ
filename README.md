@@ -121,7 +121,3 @@ Atualmente cobre 8 perguntas sobre IoT, Inteligência Artificial e Machine Learn
 ```
 
 ---
-
-## 📄 Licença
-
-Não especificada.
